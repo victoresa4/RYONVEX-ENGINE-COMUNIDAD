@@ -71,5 +71,13 @@ El código fuente principal de RYONVEX ENGINE permanece en un repositorio privad
 La posible incorporación de colaboradores al desarrollo privado se evaluará individualmente.
 
 ---
+## Enlaces de la comunidad
+
+- **[Solicitar colaboración](https://github.com/victoresa4/RYONVEX-ENGINE-COMUNIDAD/issues/1)** — Para desarrolladores interesados en participar.
+- **[Debates de la comunidad](https://github.com/victoresa4/RYONVEX-ENGINE-COMUNIDAD/discussions)** — Preguntas, ideas y novedades.
+- **[Guía de colaboración](CONTRIBUTING.md)** — Cómo proponer contribuciones.
+- **[Código de conducta](CODE_OF_CONDUCT.md)** — Normas de participación.
+
+**¿Quieres formar parte de RYONVEX ENGINE?** Consulta nuestra guía y preséntate en el anuncio de colaboración.
 
 **RYONVEX ENGINE — Construyendo nuestro propio motor gráfico, paso a paso.**
