@@ -79,7 +79,7 @@ La posible incorporación de colaboradores al desarrollo privado se evaluará in
 
 - **[Solicitar colaboración](https://github.com/victoresa4/RYONVEX-ENGINE-COMUNIDAD/issues/1)** — Para desarrolladores interesados en participar.
 - **[Debates de la comunidad](https://github.com/victoresa4/RYONVEX-ENGINE-COMUNIDAD/discussions)** — Preguntas, ideas y novedades.
-- - **[ArtStation — Demostración del editor 3D](https://www.artstation.com/artwork/BaaKyl)** — Primera demostración técnica de RYONVEX ENGINE 0.5.
+-  **[ArtStation — Demostración del editor 3D](https://www.artstation.com/artwork/BaaKyl)** — Primera demostración técnica de RYONVEX ENGINE 0.5.
 - **[Guía de colaboración](CONTRIBUTING.md)** — Cómo proponer contribuciones.
 - **[Código de conducta](CODE_OF_CONDUCT.md)** — Normas de participación.
 
