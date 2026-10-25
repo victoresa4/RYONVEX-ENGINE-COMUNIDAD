@@ -1,7 +1,11 @@
 # RYONVEX ENGINE
 
 **Motor gráfico 3D independiente desarrollado en C++20, Vulkan y SDL3.**
+## Primera demostración del editor 3D
 
+![RYONVEX ENGINE 0.5 — Editor 3D](RYONVEX_Engine_0.5_Editor_3D.png)
+
+*Captura real de RYONVEX ENGINE 0.5. Prototipo experimental en desarrollo.*
 RYONVEX ENGINE es un proyecto de desarrollo tecnológico centrado en la creación de un motor gráfico 3D propio, con herramientas de edición, renderizado en tiempo real y una arquitectura preparada para evolucionar hacia videojuegos de mayor complejidad.
 
 El proyecto se encuentra en **desarrollo experimental activo**. Nuestro objetivo es construir una base sólida, mejorar progresivamente sus capacidades y reunir una comunidad de desarrolladores interesados en participar en su evolución.
